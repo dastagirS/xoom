@@ -1,5 +1,5 @@
 # Xoom
-A meetings app just like zoom . intial build!!!
+A meetings app just like zoom . intial builds!!!
 
 
 # <b>Screenshots <b>
